@@ -1,0 +1,86 @@
+body {
+  background-image: url("https://static.vecteezy.com/system/resources/previews/003/423/841/original/cute-cat-cartoon-doodle-seamless-pattern-background-wallpaper-vector.jpg");
+  background-size: auto;
+  color :#450920;
+  font-family: 'Overpass', sans-serif;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  font-family: 'Staatliches', cursive;
+  font-size: 50px;
+  text-align: center;
+  padding-top: 40px;
+  padding-right: 20px;
+}
+
+h2 {
+  font-family: 'Staatliches', cursive;
+  font-size: 25px;
+  text-align: center;
+}
+
+.card {
+  background-color: #F9DBBD;
+  margin: 30px;
+  padding: 20px;
+  border: 2px dashed #A53860;
+  border-radius: 5px;
+  box-shadow: 13px 14px 22px 1px rgba(165,56,96,0.5);
+
+}
+
+.card-header {
+  margin: 30px;
+  padding-bottom: 40px;
+  background-color: #F9DBBD;
+
+  border: 2px dashed #A53860;
+  border-radius: 5px;
+  box-shadow: 13px 14px 22px 1px rgba(165,56,96,0.5);
+
+}
+
+.profile-pic {
+  float: left;
+  height: 450px;
+  margin: 50px;
+}
+
+#intro {
+  padding: 20px;
+}
+
+.container {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.meme {
+  width: 400px
+}
+
+.button {
+  background-color: #FFA5AB;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+ul li {
+  display: inline;
+}
+
+ul {
+  padding: 0px;
+}
+
+.fa-brands, .fab {
+  font-family: "Font Awesome 6 Brands";
+  font-weight: 300;
+  font-size: 40px;
+  color: #450920;
+}
